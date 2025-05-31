@@ -30,7 +30,7 @@
 
 ## 🏅 My Holopin Badges
 
-[![@jainmahi16's Holopin board](https://holopin.io/api/user/board?user=jainmahi16)](https://holopin.io/@jainmahi16)
+[![An image of @jainmahi16's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jainmahi16)](https://holopin.io/@jainmahi16)
 
 
 
