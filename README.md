@@ -28,7 +28,10 @@
 
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Alt Text">
 
-[![@jainmahi16's Holopin board](https://holopin.io/@jainmahi16)
+## 🏅 My Holopin Badges
+
+[![@jainmahi16's Holopin board](https://holopin.io/api/user/board?user=jainmahi16)](https://holopin.io/@jainmahi16)
+
 
 
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Alt Text">
